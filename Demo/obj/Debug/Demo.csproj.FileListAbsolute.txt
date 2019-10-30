@@ -1,0 +1,15 @@
+C:\Users\Severin Hersche\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Severin Hersche\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Severin Hersche\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\App.g.cs
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\MainWindow.baml
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.g.resources
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Severin Hersche\source\repos\Demo\Demo\obj\Debug\Demo.pdb
